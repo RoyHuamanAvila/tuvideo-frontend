@@ -1,48 +1,8 @@
-## versions
-Node : v16.15.1
-Npm : 8.11.0
+## TuVideo
+Site to watch videos with functionalities similar to youtube
 
-## Eslint 
+![image](https://user-images.githubusercontent.com/64821788/193740231-ecf1e892-4cfa-407b-be9b-6b7e0a57e3b8.png)
 
-Components with Function(){} (no arrow)
-Tabs two spaces
-Single quotation marks
-; at the end
-1 space at the end of the document.
+![image](https://user-images.githubusercontent.com/64821788/193740316-332437cb-3298-4917-9792-5dd138934322.png)
 
-
-```
-const user ={
-  _id:345445,
-  email:"cajrlos@hot.com",
-  pass:"sdfsdfsdfds",
-  isLogged:false,
-  subcribedChannels:["canal1", "canal2", "canal3"],
-  channel:{
-    channelName: "Carlos channel",
-    avatar:"/image.jpg",
-    banner:"/image.jpg",
-    date:"timestamp",
-    videos:[
-      {
-        _id:34534534,
-        url:"/video.mp4",
-        title:"title",
-        category:"category",
-        tags:["carlos", "juan", "juan"],
-        thumbnail:"/img.jpg",
-        description:"hola",
-        date: "timestamp",
-        views:0,
-        likes: 0,
-        comments:[
-          {
-            _id:45645644,
-            author:"Carlos",
-            text:"hola no me gustó",
-          }
-        ]
-      } 
-    ]
-  }
-}
+![image](https://user-images.githubusercontent.com/64821788/193740383-2f76917d-3b2b-45c1-831d-14a49c3b2f91.png)
